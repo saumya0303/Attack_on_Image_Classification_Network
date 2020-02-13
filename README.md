@@ -9,7 +9,6 @@ Attack On Image Classification Network
 
 ## Prerequisites
 1.Python
-
 2.TensorFlow
 3.Foolbox
 4.Download ImageNet dataset.
