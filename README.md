@@ -1,6 +1,4 @@
-# attack_image
-Attack on Image Classification Network
-Attack On Image Classification Network
+# Attack on Image Classification Network
 
 ## This project works in two stage:-
 1.Classification of Image from a given dataset.
