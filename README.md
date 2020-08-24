@@ -26,6 +26,6 @@ This attack has been performed directly by importing LBFGS attack from foolbox l
 This attack has been performed by computed gradient iteratively to compute adversarial input.
 
 3.PGD(Projected Gradient Descent) Attack:-
-This attack has been performed by iterative computation of gradient descent in such a way that the difference between given input and adversarial input is always less than epsilon.
+ This attack has been performed by iterative computation of gradient descent in such a way that the difference between given input and adversarial input is always less than epsilon.
 
 
