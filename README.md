@@ -6,10 +6,7 @@
 
 
 ## Prerequisites
-1.Python
-2.TensorFlow
-3.Foolbox
-4.Download ImageNet dataset.
+Python, TensorFlow, Foolbox, Download ImageNet dataset.
 Use Google Colab for running the project if you don't have high computing power.
 
 ## Source:-
