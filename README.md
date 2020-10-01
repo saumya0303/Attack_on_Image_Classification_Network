@@ -3,7 +3,7 @@
 ## This project works in two-stage:-
 1. Classification of Image from ImageNet dataset using VGG-16 and Inception-V3.
 
-2. Performing attack on the image (Adding some perturbation to the original image so that the same Model classify the image incorrectly.)
+2. Performing attack on the image (adding some perturbation to the original image so that the same model classify the image incorrectly)
 
 
 ## Prerequisites
@@ -14,7 +14,7 @@ Use Google Colab for running the project if you don't have high computing power.
 https://arxiv.org/pdf/1801.00553.pdf
 
 ## Classification Model
-Pre-trained model VGG16 and Inception-V3 for classification of an image from IMAGENET dataset.
+Pre-trained model VGG16 and Inception-v3 for classification of an image from IMAGENET dataset.
 
 ## Attack
 1. LBFGS Attack:-
